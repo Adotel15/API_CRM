@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Manu 2",
+      "empresa": "Robar es Divertido y entretenido",
+      "email": "Negro@sobrason.com",
+      "telefono": "495234234",
+      "notas": "Manu es muy negro",
+      "id": 8
+    },
+    {
+      "nombre": "Prueba",
+      "empresa": "Soft Skills Academy",
+      "email": "adriandotel@gmail.com",
+      "telefono": "671845261",
+      "notas": "sadasd",
+      "id": 9
+    }
+  ]
+}
